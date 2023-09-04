@@ -1,5 +1,6 @@
 <h1 align="center">こんにちは Raruu です！</h1>
-<h3 align="center">weebs from ID</h3>
+<h3 align="center">Hidayat Widi Saputra</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raruu&label=Profile%20views&color=0e75b6&style=flat" alt="raruu" /> </p>
 
@@ -15,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&" alt="raruu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&theme=tokyonight&locale=en" alt="raruu" /></p>
