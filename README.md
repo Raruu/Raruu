@@ -13,7 +13,6 @@
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
-  <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>  
 </p>
 
 
@@ -24,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" />
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&theme=tokyonight&locale=en" alt="raruu" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" width="45%"/>
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&theme=tokyonight&locale=en" alt="raruu" width="48%"/>
   
 </p> 
 <p align="center">
