@@ -30,7 +30,7 @@
   
 </p> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raruu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="raruu" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raruu&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="raruu" /> 
 </p>
 
 <p align="center">
