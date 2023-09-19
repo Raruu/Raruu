@@ -1,4 +1,8 @@
-<h1 align="center">こんにちは Raruu です！</h1>
+<h1 align="center">
+  こんにちは 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&color=93DAF7&center=true&vCenter=true&width=85&height=25&lines=Raruu;Widi" alt="Typing SVG" /></a>
+  です！
+</h1>
 <h3 align="center">Hidayat Widi Saputra</h3>
 
 
@@ -25,32 +29,19 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" width="45%"/>
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&theme=tokyonight&locale=en" alt="raruu" width="48%"/>
-  
-</p> 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api/top-langs?username=raruu&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="raruu" /> 
+  <img align="left" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api/top-langs?username=raruu&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="raruu" /> 
+  <img width="400" src="https://media.tenor.com/mzo_6q_TMW0AAAAC/shirasu-azusa-blue-archive.gif"/> 
+  <img align="left" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" />   
 </p>
 
+&emsp;
 <p align="center">
-  <img src="https://media.tenor.com/mzo_6q_TMW0AAAAC/shirasu-azusa-blue-archive.gif"/>
-   
+    
 </p> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raruu&label=Profile%20views&color=0e75b6&style=flat" alt="raruu" /> </p>
+
+<p align="center"> <img src="https://count.getloli.com/get/@:Raruu&theme=rule34" alt=":Raruu" /> </p>
 
 
 
 
-<!-- TrashCan -->
-<!--
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" width="45%"/>
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=raruu&theme=tokyonight&locale=en" alt="raruu" width="48%"/>
-  
-</p> 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raruu&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="raruu" /> 
-</p>
--->
 
