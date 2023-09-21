@@ -1,8 +1,4 @@
-<h1 align="center">
-  こんにちは 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&color=93DAF7&center=true&vCenter=true&width=85&height=25&lines=Raruu;Widi" alt="Typing SVG" /></a>
-  です！
-</h1>
+<h1 align="center">Raruu ? Widi</h1>
 <h3 align="center">Hidayat Widi Saputra</h3>
 
 
