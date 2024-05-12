@@ -5,19 +5,17 @@
 <div align="center">
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
-  <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img src="https://count.getloli.com/get/@:Raruu&theme=rule34" alt=":Raruu" /> 
-  <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
   <img width="100" src="https://media.tenor.com/G3SyWVrEBQoAAAAd/bocchi-bocchi-the-rock.gif"/>
 </div> 
 
 <div>
-  <img align="left" width="250px"  src="https://media1.tenor.com/m/f-Yh6LYhrskAAAAC/blue-archive-cafe.gif"/>
-  <img align="right" width="250px" src="https://media1.tenor.com/m/f-Yh6LYhrskAAAAC/blue-archive-cafe.gif" />
+  <img align="left" width="230px"  src="https://media1.tenor.com/m/f-Yh6LYhrskAAAAC/blue-archive-cafe.gif"/>
+  <img align="right" width="230px" src="https://media1.tenor.com/m/f-Yh6LYhrskAAAAC/blue-archive-cafe.gif" />
   <div align="center">
     <kbd align="center">
-       <img align="center" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" /> 
+      <img align="center" width="360px" src="https://github-readme-stats-kagamiraruu-raruu.vercel.app/api?username=raruu&show_icons=true&theme=tokyonight&locale=en" alt="raruu" /> 
       <br/>    
       <br/>  
       <br/>  
