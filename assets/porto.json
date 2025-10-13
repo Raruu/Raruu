@@ -113,5 +113,25 @@
     ],
     "desc": "Batch cropping apps",
     "desc_long": "with YOLO, SAM, and Clip"
+  },
+  {
+    "title": "Me-2025",
+    "img": [
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/boot.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/window.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/apps_menu.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/mobile_window.webp"
+    ],
+    "year": 2025,
+    "tags": [
+      "react",
+      "nextjs",
+      "typescript",
+      "web"
+    ],
+    "desc": "My 2025 portfolio",
+    "desc_long": "My first react website with nextjs and typescript ᓀ‸ᓂ",
+    "repo": "https://github.com/Raruu/me-2025",
+    "liveProject": "https://me-2025.vercel.app"
   }
 ]
