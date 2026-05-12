@@ -1,5 +1,20 @@
 [
   {
+    "title": "React Virtualisasi Datathon",
+    "img": [
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-1.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-2.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-3.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-4.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-5.webp"
+    ],
+    "year": 2026,
+    "tags": ["react", "nextjs", "heroui", "recharts"],
+    "desc": "Web visualisasi data untuk portfolio",
+    "desc_long": "Web interaktif untuk visualisasi data lomba datathon menggunakan Next.js dan Recharts.",
+    "liveProject": "https://next-dashboard-tim-maju-lancar-data.vercel.app"
+  },
+  {
     "title": "ReMagang",
     "img": [
       "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/landing.webp",
@@ -122,12 +137,7 @@
       "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/mobile_window.webp"
     ],
     "year": 2025,
-    "tags": [
-      "react",
-      "nextjs",
-      "typescript",
-      "web"
-    ],
+    "tags": ["react", "nextjs", "typescript", "web"],
     "desc": "My 2025 portfolio",
     "desc_long": "My first react website with nextjs and typescript ᓀ‸ᓂ",
     "repo": "https://github.com/Raruu/me-2025",
