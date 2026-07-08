@@ -2,14 +2,14 @@
   {
     "title": "Polsmap",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-1.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-2.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-3.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-4.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-5.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-6.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-7.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-8.webp"
+      "/assets/porto_images/polsmap/polsmap-1.webp",
+      "/assets/porto_images/polsmap/polsmap-2.webp",
+      "/assets/porto_images/polsmap/polsmap-3.webp",
+      "/assets/porto_images/polsmap/polsmap-4.webp",
+      "/assets/porto_images/polsmap/polsmap-5.webp",
+      "/assets/porto_images/polsmap/polsmap-6.webp",
+      "/assets/porto_images/polsmap/polsmap-7.webp",
+      "/assets/porto_images/polsmap/polsmap-8.webp"
     ],
     "year": 2026,
     "tags": ["flutter", "firebase", "mobile"],
@@ -19,12 +19,12 @@
   {
     "title": "Roomly",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-1.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-2.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-3.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-4.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-5.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-6.webp"
+      "/assets/porto_images/roomly/roomly-1.webp",
+      "/assets/porto_images/roomly/roomly-2.webp",
+      "/assets/porto_images/roomly/roomly-3.webp",
+      "/assets/porto_images/roomly/roomly-4.webp",
+      "/assets/porto_images/roomly/roomly-5.webp",
+      "/assets/porto_images/roomly/roomly-6.webp"
     ],
     "year": 2026,
     "tags": [
@@ -45,11 +45,11 @@
   {
     "title": "React Virtualisasi Datathon",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-1.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-2.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-3.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-4.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-5.webp"
+      "/assets/porto_images/timmajulancar-next-datathon/image-1.webp",
+      "/assets/porto_images/timmajulancar-next-datathon/image-2.webp",
+      "/assets/porto_images/timmajulancar-next-datathon/image-3.webp",
+      "/assets/porto_images/timmajulancar-next-datathon/image-4.webp",
+      "/assets/porto_images/timmajulancar-next-datathon/image-5.webp"
     ],
     "year": 2026,
     "tags": ["react", "nextjs", "heroui", "recharts"],
@@ -60,14 +60,14 @@
   {
     "title": "ReMagang",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/landing.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/login.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/admin_dashboard.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/user_dashboard.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/user_profile_review.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/profile_edit.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/pick_location.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/remagang-sem-4/user_lowongan.webp"
+      "/assets/porto_images/remagang-sem-4/landing.webp",
+      "/assets/porto_images/remagang-sem-4/login.webp",
+      "/assets/porto_images/remagang-sem-4/admin_dashboard.webp",
+      "/assets/porto_images/remagang-sem-4/user_dashboard.webp",
+      "/assets/porto_images/remagang-sem-4/user_profile_review.webp",
+      "/assets/porto_images/remagang-sem-4/profile_edit.webp",
+      "/assets/porto_images/remagang-sem-4/pick_location.webp",
+      "/assets/porto_images/remagang-sem-4/user_lowongan.webp"
     ],
     "year": 2025,
     "tags": [
@@ -87,10 +87,10 @@
   {
     "title": "Rokku Peepaa Shizaa",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/rokku_pepa/rokku_pepa_2.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/rokku_pepa/rokku_pepa_1.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/rokku_pepa/rokku_pepa_3.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/rokku_pepa/rokku_pepa_4.webp"
+      "/assets/porto_images/rokku_pepa/rokku_pepa_2.webp",
+      "/assets/porto_images/rokku_pepa/rokku_pepa_1.webp",
+      "/assets/porto_images/rokku_pepa/rokku_pepa_3.webp",
+      "/assets/porto_images/rokku_pepa/rokku_pepa_4.webp"
     ],
     "year": 2024,
     "tags": [
@@ -110,14 +110,14 @@
   {
     "title": "Bebas Tanggungan TA",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/login.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/admin_dashboard.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/admin_acc.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/user_dashboard.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/user_pengumpulan.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/user_pusat.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/user_mobile.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/bebas-ta-sem-3/notif.webp"
+      "/assets/porto_images/bebas-ta-sem-3/login.webp",
+      "/assets/porto_images/bebas-ta-sem-3/admin_dashboard.webp",
+      "/assets/porto_images/bebas-ta-sem-3/admin_acc.webp",
+      "/assets/porto_images/bebas-ta-sem-3/user_dashboard.webp",
+      "/assets/porto_images/bebas-ta-sem-3/user_pengumpulan.webp",
+      "/assets/porto_images/bebas-ta-sem-3/user_pusat.webp",
+      "/assets/porto_images/bebas-ta-sem-3/user_mobile.webp",
+      "/assets/porto_images/bebas-ta-sem-3/notif.webp"
     ],
     "desc": "Project for the 3rd semester collage",
     "year": 2024,
@@ -127,13 +127,13 @@
   {
     "title": "Flutter RAG Chat",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/chatting_mobile.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/chat_list_mobile.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/chatting.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/chatting_parameters.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/chatting_parameters_mobile.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/rag_context.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/flutter_rag_chat/rag_context_pdf.webp"
+      "/assets/porto_images/flutter_rag_chat/chatting_mobile.webp",
+      "/assets/porto_images/flutter_rag_chat/chat_list_mobile.webp",
+      "/assets/porto_images/flutter_rag_chat/chatting.webp",
+      "/assets/porto_images/flutter_rag_chat/chatting_parameters.webp",
+      "/assets/porto_images/flutter_rag_chat/chatting_parameters_mobile.webp",
+      "/assets/porto_images/flutter_rag_chat/rag_context.webp",
+      "/assets/porto_images/flutter_rag_chat/rag_context_pdf.webp"
     ],
     "desc": "Chat app with your documents",
     "year": 2024,
@@ -151,11 +151,11 @@
   {
     "title": "Batch Cropping Apps",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/batch-cropping-app/menu_batch.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/batch-cropping-app/batch_cropping.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/batch-cropping-app/set_target.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/batch-cropping-app/batch_cropping_edit.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/batch-cropping-app/result.webp"
+      "/assets/porto_images/batch-cropping-app/menu_batch.webp",
+      "/assets/porto_images/batch-cropping-app/batch_cropping.webp",
+      "/assets/porto_images/batch-cropping-app/set_target.webp",
+      "/assets/porto_images/batch-cropping-app/batch_cropping_edit.webp",
+      "/assets/porto_images/batch-cropping-app/result.webp"
     ],
     "year": 2025,
     "tags": [
@@ -174,10 +174,10 @@
   {
     "title": "Me-2025",
     "img": [
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/boot.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/window.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/apps_menu.webp",
-      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/me-2025/mobile_window.webp"
+      "/assets/porto_images/me-2025/boot.webp",
+      "/assets/porto_images/me-2025/window.webp",
+      "/assets/porto_images/me-2025/apps_menu.webp",
+      "/assets/porto_images/me-2025/mobile_window.webp"
     ],
     "year": 2025,
     "tags": ["react", "nextjs", "typescript", "web"],
