@@ -1,5 +1,48 @@
 [
   {
+    "title": "Polsmap",
+    "img": [
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-1.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-2.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-3.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-4.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-5.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-6.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-7.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/polsmap/polsmap-8.webp"
+    ],
+    "year": 2026,
+    "tags": ["flutter", "firebase", "mobile"],
+    "desc": "Application for campus navigation and building directory",
+    "desc_long": "A Flutter application for campus navigation and building directory with interactive maps."
+  },
+  {
+    "title": "Roomly",
+    "img": [
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-1.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-2.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-3.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-4.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-5.webp",
+      "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/roomly/roomly-6.webp"
+    ],
+    "year": 2026,
+    "tags": [
+      "react",
+      "nextjs",
+      "redis",
+      "websocket",
+      "realtime",
+      "prisma",
+      "yolo",
+      "heroui",
+      "recharts"
+    ],
+    "desc": "Roomly - Campus PBL 2026",
+    "desc_long": "Smart room monitoring solution utilizing IoT sensors and machine learning. Captures real-time environmental conditions and automates crowd counting. Features a centralized admin dashboard for managing room schedules, monitoring devices, viewing occupancy analytics, and securely storing historical data.",
+    "repo": "https://github.com/GhoffarFitassin/PBF_PBL_Kelompok-1"
+  },
+  {
     "title": "React Virtualisasi Datathon",
     "img": [
       "https://raw.githubusercontent.com/Raruu/Raruu/refs/heads/main/assets/porto_images/timmajulancar-next-datathon/image-1.webp",
@@ -10,8 +53,8 @@
     ],
     "year": 2026,
     "tags": ["react", "nextjs", "heroui", "recharts"],
-    "desc": "Web visualisasi data untuk portfolio",
-    "desc_long": "Web interaktif untuk visualisasi data lomba datathon menggunakan Next.js dan Recharts.",
+    "desc": "Data visualization website for a portfolio",
+    "desc_long": "Interactive website for datathon competition data visualization using Next.js and Recharts.",
     "liveProject": "https://next-dashboard-tim-maju-lancar-data.vercel.app"
   },
   {
